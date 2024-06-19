@@ -1,4 +1,4 @@
-# ChitChat API
+# Packets API
 
 REST API for the Packets training project
 
